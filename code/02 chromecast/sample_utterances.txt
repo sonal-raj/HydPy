@@ -1,0 +1,30 @@
+Reconnect reconnect chromecast
+Reconnect try connecting cast again
+Reconnect connect again
+Reconnect connect one more time
+Reconnect try to connect
+
+SkipMedia do not play this one
+SkipMedia skip this
+SkipMedia move to the next one
+SkipMedia I do not like this
+SkipMedia Not this please
+SkipMedia Move on dear
+
+PlayMedia play 
+PlayMedia run this
+PlayMedia start playing
+PlayMedia this is nice
+PlayMedia that works 
+PlayMedia this is great
+
+PauseMedia hold on
+PauseMedia pause 
+PauseMedia hold on a sec
+PauseMedia stop for a while
+PauseMedia I will be right back
+PauseMedia Wait for me
+
+Reboot restart device
+Reboot can you turn it on and off again
+Reboot rise and shine again

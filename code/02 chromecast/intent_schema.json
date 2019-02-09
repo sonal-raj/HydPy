@@ -1,0 +1,29 @@
+{
+    "intents": [
+      {
+        "intent": "Reconnect",
+        "slots":[]
+      },
+      {
+        "intent": "SkipMedia",
+        "slots":[]
+      },
+      {
+        "intent": "PlayMedia",
+        "slots":[]
+      },
+      {
+        "intent": "PauseMedia",
+        "slots":[]
+      },
+      {
+        "intent": "Reboot",
+        "slots": [
+          {
+            "name": "",
+            "type": ""
+          }]
+        }
+    ]
+}
+        
