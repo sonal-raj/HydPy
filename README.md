@@ -21,4 +21,7 @@ The code segments are intended to be a guide and starting point for beginning to
  * lambda functions
  and more...
  
+# Tutorials / Blogs
+Will be updated soon!
+ 
 For any queries, drop in a mail to [sonal.nitjsr@gmail.com](mailto:sonal.nitjsr@gmail.com)
