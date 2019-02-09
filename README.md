@@ -6,11 +6,11 @@ Presentation and demo code for HydPy meetup sessions
 
 # Slides 
 
-Get the slides for the talk [HERE](https://www.slideshare.net/sonal-raj/internet-of-python-iot-with-python-and-serverless-sonal-raj-hydpy-feb-2019)
+See the slides for the talk [HERE](https://www.slideshare.net/sonal-raj/internet-of-python-iot-with-python-and-serverless-sonal-raj-hydpy-feb-2019) or download from this repository.
 
 # Code templates
 This repository contains some of the code templates used in the talk at the HydPy session. 
-The code is not extensive and is intended to be a guide and starting point for beginning to write your first IOT application. 
+The code segments are intended to be a guide and starting point for beginning to write your first IOT application. 
 
 ## Libraries 
  * flask-ask
@@ -19,5 +19,6 @@ The code is not extensive and is intended to be a guide and starting point for b
  * pyopencv
  * fauxmo
  * lambda functions
+ and more...
  
 For any queries, drop in a mail to [sonal.nitjsr@gmail.com](mailto:sonal.nitjsr@gmail.com)
