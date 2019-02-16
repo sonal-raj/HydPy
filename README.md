@@ -6,10 +6,10 @@ Presentation and demo code for HydPy meetup sessions
 
 # Slides 
 
-See the slides for the talk [HERE](https://www.slideshare.net/sonal-raj/iot-and-home-automation-with-serverless-computing-serverless-days-2019-sonal-raj-jaipur) or download from this repository.
+See the slides for the talk [HERE](https://www.slideshare.net/sonal-raj/internet-of-python-iot-with-python-and-serverless-sonal-raj-hydpy-feb-2019) or download from this repository.
 
 # Code templates
-This repository contains some of the code templates used in the talk at the Serverless Days 2019, Jaipur, India. 
+This repository contains some of the code templates used in the talk at the HydPy session. 
 The code segments are intended to be a guide and starting point for beginning to write your first IOT application. 
 
 ## Libraries Referenced
@@ -17,7 +17,7 @@ The code segments are intended to be a guide and starting point for beginning to
  * mqtt
  * libmraa
  * pyopencv
- * azure functions
+ * fauxmo
  * lambda functions
  and more...
  
